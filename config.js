@@ -52,15 +52,15 @@ var config = {
     imgs: {
         
         "--By your lovely Xinyi": "./imgs/yee.png",
-        "小可爱突然出现": "./imgs/kawayi.jpg",
-        "（笑）": "./imgs/smile.jpg",
-        "经典皮肤1": "./imgs/classic1.jpg",
-        "经典皮肤2": "./imgs/classic2.jpg",
-        "扶腰": "./imgs/waist.jpg",
-        "舒服": "./imgs/cozy.jpg",
-        "嘿嘿": "./imgs/heihei.jpg",
-        "笑到模糊": "./imgs/hazy.jpg",
-        "love you ❤": "./imgs/love you.jpg",
+        "小可爱突然出现": "./imgs/kawayi.png",
+        "（笑）": "./imgs/smile.png",
+        "经典皮肤1": "./imgs/classic1.png",
+        "经典皮肤2": "./imgs/classic2.png",
+        "扶腰": "./imgs/waist.png",
+        "舒服": "./imgs/cozy.png",
+        "嘿嘿": "./imgs/heihei.png",
+        "笑到模糊": "./imgs/hazy.png",
+        "love you ❤": "./imgs/love you.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
