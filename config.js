@@ -20,10 +20,25 @@ var config = {
         "还能博君一笑",
         "Happy Birthday~~",
         "--By your lovely Xinyi",
-        " ",
-        " ",
-        " ",
-        "别着急走，在听会儿歌嘛",
+        "The end",
+        "。",
+        "。。",
+        "。。。",
+        "还没走呢",
+        "看啥呢",
+        "诶别走哇",
+        "小可爱突然出现",
+         "（笑）",
+        "经典皮肤1",
+        "经典皮肤2",
+         "扶腰",
+         "舒服",
+         "嘿嘿",
+         "笑到模糊",
+         "这回真没了",
+         "生日快乐我的宝",
+         "love you ❤",
+        
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -37,6 +52,15 @@ var config = {
     imgs: {
         
         "--By your lovely Xinyi": "yee.png",
+        "小可爱突然出现": "kawayi.jpg",
+        "（笑）": "smile.jpg",
+        "经典皮肤1": "classic1.jpg",
+        "经典皮肤2": "classic2.jpg",
+        "扶腰": "waist.jpg",
+        "舒服": "cozy.jpg",
+        "嘿嘿": "heihei.jpg",
+        "笑到模糊": "hazy.jpg",
+        "love you ❤": "love you.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -48,5 +72,5 @@ var config = {
         light_candle: "21岁啦，许个愿吧",
         wish_message: "嘿嘿",
         story: "还有更麻的",
-    }
+    },
 };
