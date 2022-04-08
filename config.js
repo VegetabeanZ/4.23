@@ -20,6 +20,10 @@ var config = {
         "还能博君一笑",
         "Happy Birthday~~",
         "--By your lovely Xinyi",
+        " ",
+        " ",
+        " ",
+        "别着急走，在听会儿歌嘛",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
